@@ -10,8 +10,8 @@ Alongside the obstacle detection, the project also implements DC motor control u
 
 
 The project can be broadly sub-divided into two major functionalities; 
-	DC motor control using PWM and,
-	Obstacle detection.
+> DC motor control using PWM and,
+> Obstacle detection.
 
 
 DC motor control using PWM
